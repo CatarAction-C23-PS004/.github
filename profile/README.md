@@ -11,9 +11,10 @@ Unfortunately, despite the significant number of cataract sufferers in Indonesia
 ## Our team
 |Name  | StudentID  | Univestiry |links |
 |--|--|--|--|
+| Rivan Albani Ray | A092DSX2070  |Sekolah Tinggi Teknologi Nurul Fikri |[Github](https://github.com/rrivann)|
 | Yemima Kathleen Monica | M181DSY0566  |Universitas Indonesia |[Github](https://github.com/YemimaKathleen)|
 | Farah Tri Nurul Hayati | M181DSY0338  |Universitas Indonesia |[Github](https://github.com/farahtrinrll)|
 | Paul Marturia Sihombing | M017DSX0422  |Institut Teknologi Bandung |[Github](https://github.com/paulmsihombing)|
 | Fauzan Hilmy Mulyawan | C181DSX3174  |Universitas Indonesia |[Github](https://github.com/FauzanHilmyMulyawan)|
 | Muhammad Iqbal Alam Firmansyahi | C017DSX3525  |Institut Teknologi Bandung |[Github](https://github.com/balam15)|
-| Rivan Albani Ray | A092DSX2070  |Sekolah Tinggi Teknologi Nurul Fikri |[Github](https://github.com/rrivann)|
+
